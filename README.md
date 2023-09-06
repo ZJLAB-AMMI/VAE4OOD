@@ -24,8 +24,8 @@ To train the VAE, use appropriate arguments and run this command.
 python train_one.py 
 ```
 
-| Argument |
-|:------:|
+| Argument | Purpose |
+|:------:|:-------:|
 | --dataroot | path to dataset |
 | --batchSize | input batch size |
 | --niter | number of training epochs |
@@ -41,7 +41,8 @@ To evaluate ER's OOD detection performance, run
 ```eval
 python measure.py
 ```
-
+| Argument | Purpose |
+|:------:|:-------:|
 | --dataroot | path to dataset |
 | --batchSize | input batch size |
 | --nz | the dimension of the latent space |
