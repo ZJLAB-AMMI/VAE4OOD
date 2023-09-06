@@ -57,8 +57,6 @@ Above commands will save the numpy arrays containing the OOD scores for in-distr
 python aucroc.py
 ```
 
-## Pre-trained Models
-
 Code is modified from [Likelihood Regret]https://github.com/XavierXiao/Likelihood-Regret.
 
 
