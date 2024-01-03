@@ -1,11 +1,11 @@
 # Error Reduction
-Official implementation of [An Efficient Approach to Unsupervised Out-of-Distribution Detection with Variational Autoencoders](https://arxiv.org/abs/2309.02084).
+Official implementation of [Unsupervised Out-of-Distribution Detection by Restoring Lossy Inputs with Variational Autoencoder](https://arxiv.org/abs/2309.02084).
 
 
 ## Citation
 ```
 @misc{zeng2023efficient,
-      title={An Efficient Approach to Unsupervised Out-of-Distribution Detection with Variational Autoencoders}, 
+      title={Unsupervised Out-of-Distribution Detection by Restoring Lossy Inputs with Variational Autoencoder}, 
       author={Zezhen Zeng and Bin Liu},
       year={2023},
       eprint={2309.02084},
